@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/russo-eric/">Eric Russo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am deeply committed to cybersecurity and enjoy applying practical, hands-on approaches to solving complex challenges. From securing network environments to performing vulnerability assessments and threat analysis, my projects reflect a dedication to understanding and addressing real-world security concerns. I invite you to explore my work, which highlights my focus on improving security operations and developing effective solutions in this constantly evolving field.
 
 
 ## ⚠️ Vulnerability Management Projects
