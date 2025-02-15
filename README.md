@@ -10,7 +10,7 @@ I am deeply committed to cybersecurity and enjoy applying practical, hands-on ap
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/russoee/threat-hunting-scenario-tor/blob/main/README.md)**
 
 <hr/>
 
