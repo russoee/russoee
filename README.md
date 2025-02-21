@@ -1,19 +1,33 @@
 # <a href="https://www.linkedin.com/in/russo-eric/">Eric Russo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Welcome to my GitHub! I’m a cybersecurity professional focused on threat detection, vulnerability assessment, and security automation. My projects include PowerShell scripts for system hardening, KQL queries for threat hunting, and hands-on cybersecurity labs covering network security, log analysis, and penetration testing.
-🛠 Technical Areas:
+# Eric | Cybersecurity Support Technician  
+**Threat Hunting | Vulnerability Management | Security Automation**  
 
-Security automation with PowerShell & Bash
-Vulnerability scanning & remediation (Nessus, OpenVAS)
-Threat hunting with Microsoft Defender & KQL
-Packet analysis & Wi-Fi security (Wireshark, Aircrack-ng)
-Log analysis & SIEM investigations
-🚀 Ongoing Projects:
+Welcome to my GitHub! I’m a cybersecurity professional with a focus on **vulnerability management, threat detection, and security automation**. My projects demonstrate hands-on experience with **Tenable Nessus**, **PowerShell scripting**, and **threat hunting using indicators of compromise (IOCs)**.
 
-STIG remediation scripts for Windows/Linux security compliance
-Threat detection & log correlation using KQL
-Home lab experiments in network security & penetration testing
-I’m always exploring new security tools and methodologies—feel free to check out my repositories and connect!
+## 🔹 Current Projects  
+### 🔍 **Vulnerability Management with Tenable**  
+- Setting up a **mock vulnerability management program**, including **policy creation, scan execution, and risk prioritization**.  
+- Simulated **team collaboration and remediation meetings** to showcase **stakeholder engagement and decision-making**.  
+
+### 🔎 **Threat Hunting & IOC Investigations**  
+- Leveraging **Microsoft Defender and KQL** to **track and analyze Indicators of Compromise (IOCs)**.  
+- Identifying malicious activity through **log analysis, process investigation, and anomaly detection**.  
+
+### ⚙ **PowerShell Security Automation**  
+- Developing **remediation scripts** for automating security hardening and compliance enforcement.  
+- **Windows and Linux STIG remediation** scripts to address security misconfigurations.  
+
+## 🛠 **Technical Focus Areas**  
+- **Vulnerability Scanning & Risk Prioritization** (Nessus, OpenVAS)  
+- **Threat Hunting & Log Analysis** (Microsoft Defender, KQL, SIEM)  
+- **Security Automation & Hardening** (PowerShell, Bash, STIGs)  
+- **Incident Response & Risk Mitigation**  
+
+## 🚀 **Let’s Connect**  
+I’m continuously expanding my cybersecurity skill set—feel free to check out my repositories or reach out!  
+
+
 
 
 ## ⚠️ Vulnerability Management Projects
