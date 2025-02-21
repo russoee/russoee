@@ -1,6 +1,19 @@
 # <a href="https://www.linkedin.com/in/russo-eric/">Eric Russo</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I am deeply committed to cybersecurity and enjoy applying practical, hands-on approaches to solving complex challenges. From securing network environments to performing vulnerability assessments and threat analysis, my projects reflect a dedication to understanding and addressing real-world security concerns. I invite you to explore my work, which highlights my focus on improving security operations and developing effective solutions in this constantly evolving field.
+Welcome to my GitHub! I’m a cybersecurity professional focused on threat detection, vulnerability assessment, and security automation. My projects include PowerShell scripts for system hardening, KQL queries for threat hunting, and hands-on cybersecurity labs covering network security, log analysis, and penetration testing.
+🛠 Technical Areas:
+
+Security automation with PowerShell & Bash
+Vulnerability scanning & remediation (Nessus, OpenVAS)
+Threat hunting with Microsoft Defender & KQL
+Packet analysis & Wi-Fi security (Wireshark, Aircrack-ng)
+Log analysis & SIEM investigations
+🚀 Ongoing Projects:
+
+STIG remediation scripts for Windows/Linux security compliance
+Threat detection & log correlation using KQL
+Home lab experiments in network security & penetration testing
+I’m always exploring new security tools and methodologies—feel free to check out my repositories and connect!
 
 
 ## ⚠️ Vulnerability Management Projects
