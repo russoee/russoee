@@ -1,6 +1,5 @@
-# <a href="https://www.linkedin.com/in/russo-eric/">Eric Russo</a>'s IT and Cybersecurity Project Portfolio 🔐
-
-# Eric | Cybersecurity Support Technician  
+# <a href="https://www.linkedin.com/in/russo-eric/">Eric Russo</a>'s IT and Cybersecurity Project Portfolio 
+# Cybersecurity Support Technician  
 **Threat Hunting | Vulnerability Management | Security Automation**  
 
 Welcome to my GitHub! I’m a cybersecurity professional with a focus on **vulnerability management, threat detection, and security automation**. My projects demonstrate hands-on experience with **Tenable Nessus**, **PowerShell scripting**, and **threat hunting using indicators of compromise (IOCs)**.
