@@ -1,5 +1,5 @@
-# 🔐 Security Through Action  
-**Practical Remediation | Threat Detection | Cybersecurity Automation**
+# Security in Practice, Not Just in Theory  
+**Remediation Automation | IOC Investigations | Hardened Configurations**
 
 Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cybersecurity practitioner focused on reducing risk through hands-on security engineering, vulnerability remediation, and threat detection. My portfolio showcases real-world, lab-tested solutions built using tools like PowerShell, Tenable Nessus, Microsoft Defender, and KQL — all centered around proactive security.
 
