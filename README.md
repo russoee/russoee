@@ -1,43 +1,54 @@
-# <a href="https://www.linkedin.com/in/russo-eric/">Eric Russo</a>'s Cybersecurity Project Portfolio  
-**Threat Hunting | Vulnerability Management | Security Automation**  
+# 🔐 Security Through Action  
+**Practical Remediation | Threat Detection | Cybersecurity Automation**
 
-Welcome to my GitHub! I’m a cybersecurity professional with a focus on vulnerability management, threat detection, and security automation. My projects demonstrate hands-on experience with Tenable Nessus, PowerShell scripting, and threat hunting using indicators of compromise (IOCs).
+Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cybersecurity practitioner focused on reducing risk through hands-on security engineering, vulnerability remediation, and threat detection. My portfolio showcases real-world, lab-tested solutions built using tools like PowerShell, Tenable Nessus, Microsoft Defender, and KQL — all centered around proactive security.
 
-## 🔹 Current Projects  
-###  **Vulnerability Management with Tenable**  
-- Setting up a mock vulnerability management program, including policy creation, scan execution, and risk prioritization.  
-- Simulated team collaboration and remediation meetings to showcase stakeholder engagement and decision-making.  
+---
 
-###  **Threat Hunting & IOC Investigations**  
-- Leveraging Microsoft Defender and KQL to track and analyze Indicators of Compromise (IOCs).  
-- Identifying malicious activity through log analysis, process investigation, and anomaly detection.  
+##  Active Projects
 
-###  **PowerShell Security Automation**  
-- Developing remediation scripts for automating security hardening and compliance enforcement.  
-- Windows and Linux STIG remediation scripts to address security misconfigurations.  
+###  **Vulnerability Management with Tenable**
+- Designed and deployed a full vulnerability management program using Tenable.
+- Includes policy creation, scan scheduling, report analysis, and risk-based prioritization.
+- Simulates stakeholder communication and remediation workflows to reflect enterprise operations.
 
-##  **Technical Focus Areas**  
-- Vulnerability Scanning & Risk Prioritization (Nessus, OpenVAS)  
-- Threat Hunting & Log Analysis*(Microsoft Defender, KQL, SIEM)  
-- Security Automation & Hardening (PowerShell, Bash, STIGs)  
-- Incident Response & Risk Mitigation  
+###  **Threat Hunting & IOC Investigations**
+- Threat scenarios built in a live cyber range environment using Microsoft Defender for Endpoint and KQL.
+- Investigations include file tracking, steganography detection, data exfiltration, and remote access misuse.
+- Projects structured to reflect incident response, detection engineering, and post-incident reporting.
 
-##  **Let’s Connect**  
-I’m continuously expanding my cybersecurity skill set—feel free to check out my repositories or reach out!  
+###  **Security Hardening with PowerShell & Bash**
+- Remediation scripts aligned with DISA STIG and CIS benchmarks.
+- Includes idempotent PowerShell and Bash automation for enforcing secure configurations on Windows and Linux.
+- Scripts follow standardized templates with metadata, testing notes, and verification instructions.
 
+---
 
+##  Technical Domains
+- **Vulnerability Scanning & Prioritization** – Nessus, OpenVAS, CVSS
+- **Threat Hunting & EDR Analysis** – Microsoft Defender, KQL, SIEM
+- **Security Configuration Automation** – PowerShell, Bash, STIGs, Group Policy
+- **Incident Response** – IOC tracking, containment workflows, documentation
 
+---
 
-##  Vulnerability Management Projects
+##  Key Repositories
 
-- **[Vulnerability Management Program Implementation](https://github.com/russoee/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/russoee/remediation-scripts)**
+###  Vulnerability Management Projects
+- **[Vulnerability Management Program Implementation](https://github.com/russoee/vulnerability-management-program)**  
+- **[Programmatic Remediations (PowerShell & Bash)](https://github.com/russoee/remediation-scripts)**
 
-## Threat Hunting and Security Operations
+###  Threat Hunting & Security Operations
+- **[Threat Hunting Scenario – Tor Browser Usage](https://github.com/russoee/threat-hunting-scenario-tor/blob/main/README.md)**
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/russoee/threat-hunting-scenario-tor/blob/main/README.md)**
+---
 
-<hr/>
+##  Let’s Connect
+
+I’m always exploring new ways to automate, harden, and defend systems. If you're into practical security, feel free to explore my projects or reach out!
+
+---
+
 
 ## Connect With Me
 
