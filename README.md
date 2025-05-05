@@ -24,11 +24,22 @@ Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cyber
 
 ---
 
-##  Technical Domains
-- **Vulnerability Scanning & Prioritization** – Nessus, OpenVAS, CVSS
-- **Threat Hunting & EDR Analysis** – Microsoft Defender, KQL, SIEM
-- **Security Configuration Automation** – PowerShell, Bash, STIGs, Group Policy
-- **Incident Response** – IOC tracking, containment workflows, documentation
+## Technical Domains
+
+- **Vulnerability Management & Prioritization**  
+  Tenable Nessus, CVSS scoring, remediation automation, risk-based prioritization  
+
+- **Threat Hunting & Endpoint Detection**  
+  Microsoft Defender for Endpoint, KQL, behavioral analysis, IOC investigation  
+
+- **Security Hardening & Automation**  
+  PowerShell and Bash scripting, DISA STIG enforcement, GPO configuration  
+
+- **Incident Response & Forensics**  
+  Log analysis, containment actions, user behavior tracking, incident documentation  
+
+- **SIEM & Detection Engineering**  
+  Rule tuning, alert creation, log correlation, detection testing in lab environments  
 
 ---
 
@@ -47,10 +58,6 @@ Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cyber
 
 I’m always exploring new ways to automate, harden, and defend systems. If you're into practical security, feel free to explore my projects or reach out!
 
----
-
-
-## Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
