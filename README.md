@@ -52,7 +52,7 @@ Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cyber
 ###  Threat Hunting & Security Operations
 - **[Threat Hunting Scenario – Tor Browser Usage](https://github.com/russoee/threat-hunting-scenario-tor/blob/main/README.md)**
 - **[Threat Hunting Scenario – Insider Data Exfiltration](https://github.com/russoee/threat-hunting-insider-steganography/blob/main/README.md)**
-
+- **[Threat Hunting Scenario – Fake AV with Keylogger](https://github.com/russoee/threat-hunting-scenario-fake-AV)**
 ---
 
 ##  Let’s Connect
