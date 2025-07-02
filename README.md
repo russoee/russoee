@@ -22,6 +22,13 @@ Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cyber
 - Includes idempotent PowerShell and Bash automation for enforcing secure configurations on Windows and Linux.
 - Scripts follow standardized templates with metadata, testing notes, and verification instructions.
 
+###  **Cybersecurity Program Design for Oscorp (NIST CSF)**
+- Full-scope security program built from the ground up using NIST Cybersecurity Framework.
+- Includes gap analysis, current state mapping, and a 3-year roadmap to uplift cyber maturity.
+- Emphasizes governance, asset management, threat detection, incident response, and strategic planning.
+
+
+
 ---
 
 ## Technical Domains
@@ -53,6 +60,9 @@ Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cyber
 - **[Threat Hunting Scenario – Tor Browser Usage](https://github.com/russoee/threat-hunting-scenario-tor/blob/main/README.md)**
 - **[Threat Hunting Scenario – Insider Data Exfiltration](https://github.com/russoee/threat-hunting-insider-steganography/blob/main/README.md)**
 - **[Threat Hunting Scenario – Fake AV with Keylogger](https://github.com/russoee/threat-hunting-scenario-fake-AV)**
+
+### Cybersecurity Governance Program
+
 ---
 
 ##  Let’s Connect
