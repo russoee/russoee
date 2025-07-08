@@ -62,6 +62,7 @@ Welcome — I’m [Eric Russo](https://www.linkedin.com/in/russo-eric/), a cyber
 - **[Threat Hunting Scenario – Fake AV with Keylogger](https://github.com/russoee/threat-hunting-scenario-fake-AV)**
 
 ### Cybersecurity Governance Program
+- **[Threat Hunting Scenario – Fake AV with Keylogger](https://github.com/russoee/oscorp-security-program)**
 
 ---
 
